@@ -57,7 +57,7 @@
   "homepage": "https://github.com/blockstack/key-encoder-js",
   "dependencies": {
     "@types/elliptic": "^6.4.9",
-    "asn1.js": "^5.0.1",
+    "asn1.js": "^5.4.1",
     "bn.js": "^4.11.8",
     "elliptic": "^6.4.1"
   },
